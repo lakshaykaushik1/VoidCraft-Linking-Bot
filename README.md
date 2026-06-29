@@ -63,11 +63,16 @@ VoidCraft-Linking-Bot/
    git clone https://github.com/your-username/VoidCraft-Linking-Bot.git
    cd VoidCraft-Linking-Bot
 2. **Install dependencies**
-   ```bashnpm install
-    npm install
+   ```bash
+   # Core dependencies
+   npm init -y
+   npm install discord.js mongoose dotenv axios
+   # Dev dependencies
+   npm install --save-dev nodemon chalk dayjs
 
 3. **Clone the repository**
    ```bash
+   Make sure you add these into your .env file
    DISCORD_TOKEN=your_bot_token
    MONGO_URI=your_mongodb_connection
    DISCORD_SERVER_ID=your_discord_server_id
