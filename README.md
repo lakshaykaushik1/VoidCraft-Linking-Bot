@@ -4,6 +4,8 @@
 > Crafted with ❤️ using **Node.js**, **Discord.js**, and **MongoDB**.
 
 ---
+![Discord Bot](Discord_Bot.png)
+---
 
 ## 🔗 Quick Links
 
