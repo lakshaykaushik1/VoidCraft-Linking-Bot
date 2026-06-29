@@ -71,6 +71,7 @@ VoidCraft-Linking-Bot/
    DISCORD_TOKEN=your_bot_token
    MONGO_URI=your_mongodb_connection
    DISCORD_SERVER_ID=your_discord_server_id
+   APPLICATION_ID=bot_application_id
 ---
 ## 🧑‍💻 Contributing
 We ❤️ contributions!
